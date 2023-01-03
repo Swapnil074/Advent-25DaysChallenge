@@ -103,7 +103,7 @@ input[type=text]:disabled {
 }
 
 .settings {
-  border: none;
+   border: none;
   background: none;
   cursor: pointer;
   opacity: 0.3;
